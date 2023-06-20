@@ -1,3 +1,5 @@
 docdb:
-    source:  "https://github.com/sharanyachandu/terraform-module-vpc.git"
+    source: "https://github.com/sharanyachandu/tf-module-mongodb.git"
     version: "main"
+
+    

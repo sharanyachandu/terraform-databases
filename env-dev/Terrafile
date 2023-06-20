@@ -1,3 +1,5 @@
-vpc:
-    source:  "https://github.com/sharanyachandu/terraform-module-vpc.git"
+docdb:
+    source: "https://github.com/sharanyachandu/tf-module-mongodb.git"
     version: "main"
+
+    
