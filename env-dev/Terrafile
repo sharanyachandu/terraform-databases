@@ -1,5 +1,5 @@
 docdb:
-    source: "https://github.com/b53-clouddevops/tf-module-mongodb.git"
+    source: "https://github.com/b53-clouddevops/mongod-trial.git"
     version: "main"
 
 /*
