@@ -6,7 +6,7 @@ module "docdb" {
   DOCDB_INSTANCE_COUNT      = var.DOCDB_INSTANCE_COUNT
 }
 
-
+/*
 module "redis" {
   source                       = "./vendor/modules/redis"     # Terrafile is going to download the code from the respective branch of the repo and keeps it local
   ENV                          = var.ENV
@@ -15,3 +15,4 @@ module "redis" {
   ELASTIC_CACHE_NODE_COUNT     = var.ELASTIC_CACHE_NODE_COUNT
   ELASTIC_CACHE_ENGINE_VERSION = var.ELASTIC_CACHE_ENGINE_VERSION
 }
+*/
