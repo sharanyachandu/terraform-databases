@@ -1,5 +1,5 @@
 docdb:
-    source: "https://github.com/sharanyachandu/mongod-trial.git.git"
+    source: "https://github.com/sharanyachandu/mongod-trial.git"
     version: "main"
 
 /*  
