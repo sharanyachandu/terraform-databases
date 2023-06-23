@@ -1,10 +1,10 @@
 ENV  = "dev"
-
+/*
 # MongoDB Values
 DOCDB_PORT                   = 27017
 DOCDB_INSTANCE_CLASS         = "db.t3.medium"
 DOCDB_INSTANCE_COUNT         = 1
-
+*/
 /*
 # Elasticcache Values 
 ELASTIC_CACHE_PORT           = 6379 
