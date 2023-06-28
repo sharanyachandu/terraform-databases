@@ -3,6 +3,6 @@ docdb:
     version: "main"
 
  
-#redis:
-  #   source: "https://github.com/sharanyachandu/tf-module-redis.git"
-  #  version: "main"
+redis:
+     source: "https://github.com/sharanyachandu/tf-module-redis.git"
+     version: "main"
